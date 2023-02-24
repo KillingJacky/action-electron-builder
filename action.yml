@@ -1,6 +1,6 @@
-name: Electron Builder Action
+name: Electron Builder Action - Solving openssl_fips
 author: Samuel Meuli
-description: GitHub Action for building and releasing Electron apps
+description: GitHub Action for building and releasing Electron apps, thanks original authors
 
 inputs:
   github_token:
